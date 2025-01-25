@@ -4,18 +4,20 @@ import json
 from json import JSONDecodeError
 import logging 
 from datetime import datetime, timedelta
-
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
 def lambda_handler(event, context):
     try:
         logging.info("Lambda Execution Started")
-        data=generate_sales_data(num_records=10000)
-        logging.info("Data Generated with statusCode - 200")
+        num_records=10000
+        data=generate_sales_data(num_records)
+        logging.info(f"{num_records} records Generated")
         return {
             'statusCode': 200,
             'body': json.dumps(data)
         }
     except Exception as e:
-        logging.Error(f"Failed to Generate Data with error -> {e}")
+        logging.error(f"Failed to Generate Data with error -> {e}")
         return {
             'statusCode': 400,
             'body' : json.dumps("Failure Occured")
@@ -54,14 +56,14 @@ def generate_sales_data(num_records):
                 })
             return sales_data
         except FileNotFoundError as e:
-            logging.Error(f"Error -> {e}")
+            logging.error(f"Error -> {e}")
             raise
         except json.JSONDecodeError as e:
-            logging.Error(f"Error decoding JSON -> {e}")
+            logging.error(f"Error decoding JSON -> {e}")
             raise
         except Exception as e:
-            logging.Error(f"An unexpected error occurred -> {e}")
+            logging.error(f"An unexpected error occurred -> {e}")
             raise
     except Exception as e:
-        logging.Error(f"Failed to Execute generate_sales_data method in Lambda with error -> {e}")
+        logging.error(f"Failed to Execute generate_sales_data method in Lambda with error -> {e}")
         raise
