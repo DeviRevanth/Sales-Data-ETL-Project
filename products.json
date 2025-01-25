@@ -1,0 +1,2874 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Samsung Galaxy S24 Ultra",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 139999,
+    "retail_price": 118999.15
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Samsung Galaxy S24+",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 129999,
+    "retail_price": 110499.15
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Samsung Galaxy S24",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 109999,
+    "retail_price": 93499.15
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Apple iPhone 15 Pro Max",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 169999,
+    "retail_price": 144499.15
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Apple iPhone 15 Pro",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 149999,
+    "retail_price": 127499.15
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Apple iPhone 15 Plus",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 129999,
+    "retail_price": 110499.15
+  },
+  {
+    "product_id": "P007",
+    "product_name": "Apple iPhone 15",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 109999,
+    "retail_price": 93499.15
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Apple iPhone 16 Pro Max",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 179999,
+    "retail_price": 152999.15
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Apple iPhone 16 Pro",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 159999,
+    "retail_price": 135999.15
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Apple iPhone 16 Plus",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 139999,
+    "retail_price": 118999.15
+  },
+  {
+    "product_id": "P011",
+    "product_name": "Apple iPhone 16",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 119999,
+    "retail_price": 101999.15
+  },
+  {
+    "product_id": "P012",
+    "product_name": "OnePlus 11",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 54999,
+    "retail_price": 46749.15
+  },
+  {
+    "product_id": "P013",
+    "product_name": "OnePlus Nord 2T 5G",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 31999,
+    "retail_price": 27199.15
+  },
+  {
+    "product_id": "P014",
+    "product_name": "OnePlus 10 Pro",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 74999,
+    "retail_price": 63749.15
+  },
+  {
+    "product_id": "P015",
+    "product_name": "OnePlus 9 Pro",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 62999,
+    "retail_price": 53649.15
+  },
+  {
+    "product_id": "P016",
+    "product_name": "Moto Edge 30 Pro",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 54999,
+    "retail_price": 46749.15
+  },
+  {
+    "product_id": "P017",
+    "product_name": "Moto G60",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 18999,
+    "retail_price": 16149.15
+  },
+  {
+    "product_id": "P018",
+    "product_name": "Samsung Galaxy M14 5G",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 13999,
+    "retail_price": 11899.15
+  },
+  {
+    "product_id": "P019",
+    "product_name": "Samsung Galaxy M13",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 11999,
+    "retail_price": 10199.15
+  },
+  {
+    "product_id": "P020",
+    "product_name": "OnePlus Nord CE 3 5G",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 23999,
+    "retail_price": 20399.15
+  },
+  {
+    "product_id": "P021",
+    "product_name": "Moto G31",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 12999,
+    "retail_price": 11049.15
+  },
+  {
+    "product_id": "P022",
+    "product_name": "Moto E40",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 9999,
+    "retail_price": 8499.15
+  },
+  {
+    "product_id": "P023",
+    "product_name": "OnePlus Nord 2",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 27999,
+    "retail_price": 23799.15
+  },
+  {
+    "product_id": "P024",
+    "product_name": "Samsung Galaxy A33 5G",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 24999,
+    "retail_price": 21249.15
+  },
+  {
+    "product_id": "P025",
+    "product_name": "Apple iPhone 13",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 74999,
+    "retail_price": 63749.15
+  },
+  {
+    "product_id": "P026",
+    "product_name": "Samsung Galaxy F23 5G",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 17999,
+    "retail_price": 15299.15
+  },
+  {
+    "product_id": "P027",
+    "product_name": "Samsung Galaxy A04",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 12999,
+    "retail_price": 11049.15
+  },
+  {
+    "product_id": "P028",
+    "product_name": "OnePlus 8T",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 42999,
+    "retail_price": 36549.15
+  },
+  {
+    "product_id": "P029",
+    "product_name": "OnePlus 9",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 49999,
+    "retail_price": 42499.15
+  },
+  {
+    "product_id": "P030",
+    "product_name": "Apple iPhone 12",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 64999,
+    "retail_price": 55149.15
+  },
+  {
+    "product_id": "P031",
+    "product_name": "Apple iPhone 13 Pro",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 119999,
+    "retail_price": 101999.15
+  },
+  {
+    "product_id": "P032",
+    "product_name": "Samsung Galaxy Z Flip4",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 89999,
+    "retail_price": 76499.15
+  },
+  {
+    "product_id": "P033",
+    "product_name": "Samsung Galaxy Z Fold4",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 179999,
+    "retail_price": 152999.15
+  },
+  {
+    "product_id": "P034",
+    "product_name": "Moto G60S",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 21999,
+    "retail_price": 18699.15
+  },
+  {
+    "product_id": "P035",
+    "product_name": "OnePlus Nord CE 2",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 24999,
+    "retail_price": 21249.15
+  },
+  {
+    "product_id": "P036",
+    "product_name": "Moto Edge 20",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 29999,
+    "retail_price": 25499.15
+  },
+  {
+    "product_id": "P037",
+    "product_name": "Samsung Galaxy A53 5G",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 28999,
+    "retail_price": 24649.15
+  },
+  {
+    "product_id": "P038",
+    "product_name": "OnePlus 8",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 42999,
+    "retail_price": 36549.15
+  },
+  {
+    "product_id": "P039",
+    "product_name": "Apple iPhone 11",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 49999,
+    "retail_price": 42499.15
+  },
+  {
+    "product_id": "P040",
+    "product_name": "Samsung Galaxy A72",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 44999,
+    "retail_price": 38249.15
+  },
+  {
+    "product_id": "P041",
+    "product_name": "Samsung Galaxy S21 FE 5G",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 54999,
+    "retail_price": 46749.15
+  },
+  {
+    "product_id": "P042",
+    "product_name": "OnePlus 9R",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 39999,
+    "retail_price": 33999.15
+  },
+  {
+    "product_id": "P043",
+    "product_name": "Moto Edge 30",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 26999,
+    "retail_price": 22949.15
+  },
+  {
+    "product_id": "P044",
+    "product_name": "Apple iPhone 13 Mini",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 69999,
+    "retail_price": 59499.15
+  },
+  {
+    "product_id": "P045",
+    "product_name": "OnePlus Nord 3",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 32999,
+    "retail_price": 28049.15
+  },
+  {
+    "product_id": "P046",
+    "product_name": "Samsung Galaxy A52 5G",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 34999,
+    "retail_price": 29749.15
+  },
+  {
+    "product_id": "P047",
+    "product_name": "Apple iPhone 12 Mini",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 69999,
+    "retail_price": 59499.15
+  },
+  {
+    "product_id": "P048",
+    "product_name": "Samsung Galaxy A51",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 24999,
+    "retail_price": 21249.15
+  },
+  {
+    "product_id": "P049",
+    "product_name": "Moto G9 Power",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 11999,
+    "retail_price": 10199.15
+  },
+  {
+    "product_id": "P050",
+    "product_name": "OnePlus 7T Pro",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 53999,
+    "retail_price": 45899.15
+  },
+  {
+    "product_id": "P051",
+    "product_name": "Samsung Galaxy M32",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 14999,
+    "retail_price": 12749.15
+  },
+  {
+    "product_id": "P052",
+    "product_name": "OnePlus 9 Pro",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 64999,
+    "retail_price": 55249.15
+  },
+  {
+    "product_id": "P053",
+    "product_name": "Apple iPhone 14",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 79999,
+    "retail_price": 67999.15
+  },
+  {
+    "product_id": "P054",
+    "product_name": "Samsung Galaxy M12",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 12999,
+    "retail_price": 11049.15
+  },
+  {
+    "product_id": "P055",
+    "product_name": "Moto G60",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 17999,
+    "retail_price": 15299.15
+  },
+  {
+    "product_id": "P056",
+    "product_name": "Apple iPhone SE (2020)",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 39999,
+    "retail_price": 33999.15
+  },
+  {
+    "product_id": "P057",
+    "product_name": "OnePlus Nord N200",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 17999,
+    "retail_price": 15299.15
+  },
+  {
+    "product_id": "P058",
+    "product_name": "Moto G 5G",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 19999,
+    "retail_price": 16999.15
+  },
+  {
+    "product_id": "P059",
+    "product_name": "Apple iPhone 13 Pro Max",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 129999,
+    "retail_price": 110499.15
+  },
+  {
+    "product_id": "P060",
+    "product_name": "Samsung Galaxy M11",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 11999,
+    "retail_price": 10199.15
+  },
+  {
+    "product_id": "P061",
+    "product_name": "OnePlus 8 Pro",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 59999,
+    "retail_price": 50999.15
+  },
+  {
+    "product_id": "P062",
+    "product_name": "Samsung Galaxy A03",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 10999,
+    "retail_price": 9299.15
+  },
+  {
+    "product_id": "P063",
+    "product_name": "Apple iPhone XR",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 49999,
+    "retail_price": 42499.15
+  },
+  {
+    "product_id": "P064",
+    "product_name": "Moto Edge 20 Pro",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 37999,
+    "retail_price": 32299.15
+  },
+  {
+    "product_id": "P065",
+    "product_name": "OnePlus Nord CE 2 Lite",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 19999,
+    "retail_price": 16999.15
+  },
+  {
+    "product_id": "P066",
+    "product_name": "Apple iPhone 11 Pro Max",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 109999,
+    "retail_price": 93349.15
+  },
+  {
+    "product_id": "P067",
+    "product_name": "Samsung Galaxy M31",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 16999,
+    "retail_price": 14449.15
+  },
+  {
+    "product_id": "P068",
+    "product_name": "OnePlus 7 Pro",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 52999,
+    "retail_price": 45049.15
+  },
+  {
+    "product_id": "P069",
+    "product_name": "Moto G7 Power",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 14999,
+    "retail_price": 12749.15
+  },
+  {
+    "product_id": "P070",
+    "product_name": "Apple iPhone 8",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 36999,
+    "retail_price": 31499.15
+  },
+  {
+    "product_id": "P071",
+    "product_name": "Samsung Galaxy S20 FE 5G",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 54999,
+    "retail_price": 46749.15
+  },
+  {
+    "product_id": "P072",
+    "product_name": "OnePlus Nord 2T",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 28999,
+    "retail_price": 24649.15
+  },
+  {
+    "product_id": "P073",
+    "product_name": "Samsung Galaxy A32",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 21999,
+    "retail_price": 18699.15
+  },
+  {
+    "product_id": "P074",
+    "product_name": "Apple iPhone X",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 64999,
+    "retail_price": 55149.15
+  },
+  {
+    "product_id": "P075",
+    "product_name": "Moto G8 Power",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 13999,
+    "retail_price": 11849.15
+  },
+  {
+    "product_id": "P076",
+    "product_name": "Samsung Galaxy Note 20 Ultra",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 104999,
+    "retail_price": 89249.15
+  },
+  {
+    "product_id": "P077",
+    "product_name": "Apple iPhone 12 Mini",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 69999,
+    "retail_price": 59499.15
+  },
+  {
+    "product_id": "P078",
+    "product_name": "OnePlus 10R 5G",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 28999,
+    "retail_price": 24649.15
+  },
+  {
+    "product_id": "P079",
+    "product_name": "Moto Edge 20",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 29999,
+    "retail_price": 25499.15
+  },
+  {
+    "product_id": "P080",
+    "product_name": "Samsung Galaxy Z Fold 3",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 179999,
+    "retail_price": 152999.15
+  },
+  {
+    "product_id": "P081",
+    "product_name": "Apple iPhone 13 Mini",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 69999,
+    "retail_price": 59499.15
+  },
+  {
+    "product_id": "P082",
+    "product_name": "OnePlus 9",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 49999,
+    "retail_price": 42499.15
+  },
+  {
+    "product_id": "P083",
+    "product_name": "Samsung Galaxy Z Flip 3",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 84999,
+    "retail_price": 72149.15
+  },
+  {
+    "product_id": "P084",
+    "product_name": "Moto G50",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 14999,
+    "retail_price": 12749.15
+  },
+  {
+    "product_id": "P085",
+    "product_name": "Apple iPhone XS",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 79999,
+    "retail_price": 67999.15
+  },
+  {
+    "product_id": "P086",
+    "product_name": "OnePlus 9R",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 39999,
+    "retail_price": 33999.15
+  },
+  {
+    "product_id": "P087",
+    "product_name": "Samsung Galaxy A72",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 34999,
+    "retail_price": 29749.15
+  },
+  {
+    "product_id": "P088",
+    "product_name": "Apple iPhone 11",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 64999,
+    "retail_price": 55149.15
+  },
+  {
+    "product_id": "P089",
+    "product_name": "Moto Edge 30",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 29999,
+    "retail_price": 25499.15
+  },
+  {
+    "product_id": "P090",
+    "product_name": "OnePlus Nord 2",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 27999,
+    "retail_price": 23749.15
+  },
+  {
+    "product_id": "P091",
+    "product_name": "Apple iPhone 12 Pro",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 119999,
+    "retail_price": 101999.15
+  },
+  {
+    "product_id": "P092",
+    "product_name": "Samsung Galaxy M51",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 22999,
+    "retail_price": 19549.15
+  },
+  {
+    "product_id": "P093",
+    "product_name": "OnePlus 7T Pro",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 54999,
+    "retail_price": 46749.15
+  },
+  {
+    "product_id": "P094",
+    "product_name": "Moto G6 Plus",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 19999,
+    "retail_price": 16999.15
+  },
+  {
+    "product_id": "P095",
+    "product_name": "Apple iPhone 7 Plus",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 64999,
+    "retail_price": 55149.15
+  },
+  {
+    "product_id": "P096",
+    "product_name": "Samsung Galaxy S21 Ultra 5G",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 105999,
+    "retail_price": 89949.15
+  },
+  {
+    "product_id": "P097",
+    "product_name": "OnePlus 6T",
+    "category": "Mobile Phone",
+    "brand": "OnePlus",
+    "mrp": 35999,
+    "retail_price": 30599.15
+  },
+  {
+    "product_id": "P098",
+    "product_name": "Moto G9 Pro",
+    "category": "Mobile Phone",
+    "brand": "Moto",
+    "mrp": 17999,
+    "retail_price": 15299.15
+  },
+  {
+    "product_id": "P099",
+    "product_name": "Apple iPhone 12 Pro Max",
+    "category": "Mobile Phone",
+    "brand": "Apple",
+    "mrp": 129999,
+    "retail_price": 110499.15
+  },
+  {
+    "product_id": "P100",
+    "product_name": "Samsung Galaxy A30",
+    "category": "Mobile Phone",
+    "brand": "Samsung",
+    "mrp": 16900,
+    "retail_price": 14365.15
+  },
+  {
+    "product_id": "L001",
+    "product_name": "Dell XPS 13",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 119999,
+    "retail_price": 101999.15
+  },
+  {
+    "product_id": "L002",
+    "product_name": "HP Spectre x360",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 134999,
+    "retail_price": 114749.15
+  },
+  {
+    "product_id": "L003",
+    "product_name": "Apple MacBook Pro 14-inch",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 199900,
+    "retail_price": 169915.15
+  },
+  {
+    "product_id": "L004",
+    "product_name": "Samsung Galaxy Book Pro",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "mrp": 99999,
+    "retail_price": 84999.15
+  },
+  {
+    "product_id": "L005",
+    "product_name": "Acer Swift 3",
+    "category": "Laptop",
+    "brand": "Acer",
+    "mrp": 74999,
+    "retail_price": 63749.15
+  },
+  {
+    "product_id": "L007",
+    "product_name": "Lenovo ThinkPad X1 Carbon",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 174999,
+    "retail_price": 148749.15
+  },
+  {
+    "product_id": "L008",
+    "product_name": "Asus ZenBook Flip 14",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 99990,
+    "retail_price": 84990.15
+  },
+  {
+    "product_id": "L009",
+    "product_name": "HP Pavilion 15",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 65999,
+    "retail_price": 56199.15
+  },
+  {
+    "product_id": "L010",
+    "product_name": "Apple MacBook Air M2",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 124900,
+    "retail_price": 106165.0
+  },
+  {
+    "product_id": "L011",
+    "product_name": "Acer Aspire 5",
+    "category": "Laptop",
+    "brand": "Acer",
+    "mrp": 54990,
+    "retail_price": 46741.5
+  },
+  {
+    "product_id": "L012",
+    "product_name": "Dell Inspiron 15",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 59999,
+    "retail_price": 50999.15
+  },
+  {
+    "product_id": "L013",
+    "product_name": "Lenovo Legion 5",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 92990,
+    "retail_price": 79141.5
+  },
+  {
+    "product_id": "L014",
+    "product_name": "HP Envy x360",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 89999,
+    "retail_price": 76499.15
+  },
+  {
+    "product_id": "L015",
+    "product_name": "Asus ROG Strix G15",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 104999,
+    "retail_price": 89249.15
+  },
+  {
+    "product_id": "L016",
+    "product_name": "Samsung Galaxy Book Pro 360",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "mrp": 84999,
+    "retail_price": 72249.15
+  },
+  {
+    "product_id": "L017",
+    "product_name": "Apple MacBook Pro 16-inch",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 249900,
+    "retail_price": 212415.0
+  },
+  {
+    "product_id": "L018",
+    "product_name": "Lenovo IdeaPad 3",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 43990,
+    "retail_price": 37391.5
+  },
+  {
+    "product_id": "L019",
+    "product_name": "Dell Latitude 7400",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 84990,
+    "retail_price": 72141.5
+  },
+  {
+    "product_id": "L020",
+    "product_name": "HP Omen 15",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 129999,
+    "retail_price": 110499.15
+  },
+  {
+    "product_id": "L021",
+    "product_name": "Acer Predator Helios 300",
+    "category": "Laptop",
+    "brand": "Acer",
+    "mrp": 139999,
+    "retail_price": 118999.15
+  },
+  {
+    "product_id": "L022",
+    "product_name": "Asus VivoBook 15",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 45990,
+    "retail_price": 39091.5
+  },
+  {
+    "product_id": "L023",
+    "product_name": "Apple MacBook Pro 13-inch M1",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 129900,
+    "retail_price": 110415.0
+  },
+  {
+    "product_id": "L024",
+    "product_name": "Dell XPS 15",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 184999,
+    "retail_price": 157249.15
+  },
+  {
+    "product_id": "L025",
+    "product_name": "HP Pavilion x360",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 84999,
+    "retail_price": 72141.5
+  },
+  {
+    "product_id": "L026",
+    "product_name": "Lenovo ThinkPad E15",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 55990,
+    "retail_price": 47691.5
+  },
+  {
+    "product_id": "L027",
+    "product_name": "Asus ZenBook 14",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 84990,
+    "retail_price": 72141.5
+  },
+  {
+    "product_id": "L028",
+    "product_name": "Apple MacBook Air M1",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 92900,
+    "retail_price": 78965.0
+  },
+  {
+    "product_id": "L029",
+    "product_name": "Dell Inspiron 14 5000",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 64999,
+    "retail_price": 55249.15
+  },
+  {
+    "product_id": "L030",
+    "product_name": "HP Elite Dragonfly",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 164999,
+    "retail_price": 140249.15
+  },
+  {
+    "product_id": "L031",
+    "product_name": "Acer Swift 3",
+    "category": "Laptop",
+    "brand": "Acer",
+    "mrp": 63990,
+    "retail_price": 54391.5
+  },
+  {
+    "product_id": "L032",
+    "product_name": "Asus TUF Gaming A15",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 79990,
+    "retail_price": 67991.5
+  },
+  {
+    "product_id": "L033",
+    "product_name": "Samsung Notebook 9 Pro",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "mrp": 119999,
+    "retail_price": 101999.15
+  },
+  {
+    "product_id": "L034",
+    "product_name": "Apple MacBook Pro M2",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 169900,
+    "retail_price": 144415.0
+  },
+  {
+    "product_id": "L035",
+    "product_name": "Lenovo Yoga 7i",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 84990,
+    "retail_price": 72141.5
+  },
+  {
+    "product_id": "L036",
+    "product_name": "Dell XPS 13",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 124999,
+    "retail_price": 106249.15
+  },
+  {
+    "product_id": "L037",
+    "product_name": "HP Spectre x360",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 139999,
+    "retail_price": 118999.15
+  },
+  {
+    "product_id": "L038",
+    "product_name": "Acer Nitro 5",
+    "category": "Laptop",
+    "brand": "Acer",
+    "mrp": 76990,
+    "retail_price": 65491.5
+  },
+  {
+    "product_id": "L039",
+    "product_name": "Asus ROG Zephyrus G14",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 139990,
+    "retail_price": 118991.5
+  },
+  {
+    "product_id": "L040",
+    "product_name": "Apple MacBook Pro 14-inch M1 Pro",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 179900,
+    "retail_price": 152915.0
+  },
+  {
+    "product_id": "L041",
+    "product_name": "Lenovo ThinkPad L15",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 45990,
+    "retail_price": 39091.5
+  },
+  {
+    "product_id": "L042",
+    "product_name": "Dell G5 15 Gaming",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 99999,
+    "retail_price": 84999.15
+  },
+  {
+    "product_id": "L043",
+    "product_name": "HP Omen 17",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 199999,
+    "retail_price": 169999.15
+  },
+  {
+    "product_id": "L044",
+    "product_name": "Asus VivoBook Ultra 15",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 54990,
+    "retail_price": 46741.5
+  },
+  {
+    "product_id": "L045",
+    "product_name": "Apple MacBook Air M2",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 119900,
+    "retail_price": 101915.0
+  },
+  {
+    "product_id": "L046",
+    "product_name": "Lenovo Legion 5 Pro",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 124990,
+    "retail_price": 106241.5
+  },
+  {
+    "product_id": "L047",
+    "product_name": "Dell Latitude 5420",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 76990,
+    "retail_price": 65491.5
+  },
+  {
+    "product_id": "L048",
+    "product_name": "HP Envy 13",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 99999,
+    "retail_price": 84999.15
+  },
+  {
+    "product_id": "L049",
+    "product_name": "Acer Aspire 5",
+    "category": "Laptop",
+    "brand": "Acer",
+    "mrp": 49990,
+    "retail_price": 42491.5
+  },
+  {
+    "product_id": "L050",
+    "product_name": "Asus ROG Flow Z13",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 169990,
+    "retail_price": 144491.5
+  },
+  {
+    "product_id": "L051",
+    "product_name": "Apple MacBook Pro 16-inch M1 Max",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 239900,
+    "retail_price": 203915.0
+  },
+  {
+    "product_id": "L052",
+    "product_name": "Lenovo IdeaPad Slim 5",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 62990,
+    "retail_price": 53641.5
+  },
+  {
+    "product_id": "L053",
+    "product_name": "Dell Alienware M15 R4",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 179990,
+    "retail_price": 152991.5
+  },
+  {
+    "product_id": "L054",
+    "product_name": "HP Pavilion 14",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 64990,
+    "retail_price": 55241.5
+  },
+  {
+    "product_id": "L055",
+    "product_name": "Acer Predator Helios 300",
+    "category": "Laptop",
+    "brand": "Acer",
+    "mrp": 139990,
+    "retail_price": 118991.5
+  },
+  {
+    "product_id": "L056",
+    "product_name": "Asus ZenBook Flip 14",
+    "category": "Laptop",
+    "brand": "Asus",
+    "mrp": 74990,
+    "retail_price": 63741.5
+  },
+  {
+    "product_id": "L057",
+    "product_name": "Apple MacBook Pro 13-inch M2",
+    "category": "Laptop",
+    "brand": "Apple",
+    "mrp": 134900,
+    "retail_price": 114665.0
+  },
+  {
+    "product_id": "L058",
+    "product_name": "Lenovo ThinkPad X1 Carbon",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "mrp": 159990,
+    "retail_price": 135991.5
+  },
+  {
+    "product_id": "L059",
+    "product_name": "Dell Inspiron 14 7000",
+    "category": "Laptop",
+    "brand": "Dell",
+    "mrp": 84990,
+    "retail_price": 72141.5
+  },
+  {
+    "product_id": "L060",
+    "product_name": "HP EliteBook 840 G7",
+    "category": "Laptop",
+    "brand": "HP",
+    "mrp": 92990,
+    "retail_price": 79041.5
+  },
+  {
+    "product_id": "H001",
+    "product_name": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "brand": "Sony",
+    "mrp": 29990,
+    "retail_price": 25491.5
+  },
+  {
+    "product_id": "H002",
+    "product_name": "Apple AirPods Pro 2nd Gen",
+    "category": "Earphones",
+    "brand": "Apple",
+    "mrp": 24900,
+    "retail_price": 21165.0
+  },
+  {
+    "product_id": "H003",
+    "product_name": "Bose QuietComfort 45",
+    "category": "Headphones",
+    "brand": "Bose",
+    "mrp": 29900,
+    "retail_price": 25415.0
+  },
+  {
+    "product_id": "H004",
+    "product_name": "JBL Tune 125TWS",
+    "category": "Earphones",
+    "brand": "JBL",
+    "mrp": 3999,
+    "retail_price": 3399.15
+  },
+  {
+    "product_id": "H005",
+    "product_name": "OnePlus Buds Pro 2",
+    "category": "Earphones",
+    "brand": "OnePlus",
+    "mrp": 9999,
+    "retail_price": 8499.15
+  },
+  {
+    "product_id": "H006",
+    "product_name": "Samsung Galaxy Buds Pro",
+    "category": "Earphones",
+    "brand": "Samsung",
+    "mrp": 15990,
+    "retail_price": 13591.5
+  },
+  {
+    "product_id": "H007",
+    "product_name": "Bose SoundLink II",
+    "category": "Headphones",
+    "brand": "Bose",
+    "mrp": 24900,
+    "retail_price": 21165.0
+  },
+  {
+    "product_id": "H008",
+    "product_name": "Sony WH-XB910N Extra Bass",
+    "category": "Headphones",
+    "brand": "Sony",
+    "mrp": 12990,
+    "retail_price": 11041.5
+  },
+  {
+    "product_id": "H009",
+    "product_name": "Sennheiser Momentum 3 Wireless",
+    "category": "Headphones",
+    "brand": "Sennheiser",
+    "mrp": 34990,
+    "retail_price": 29741.5
+  },
+  {
+    "product_id": "H010",
+    "product_name": "Realme Buds Air 3",
+    "category": "Earphones",
+    "brand": "Realme",
+    "mrp": 4999,
+    "retail_price": 4249.15
+  },
+  {
+    "product_id": "H011",
+    "product_name": "JBL Live 650BTNC",
+    "category": "Headphones",
+    "brand": "JBL",
+    "mrp": 7999,
+    "retail_price": 6799.15
+  },
+  {
+    "product_id": "H012",
+    "product_name": "Apple AirPods 3rd Gen",
+    "category": "Earphones",
+    "brand": "Apple",
+    "mrp": 18900,
+    "retail_price": 16065.0
+  },
+  {
+    "product_id": "H013",
+    "product_name": "Anker Soundcore Life Q20",
+    "category": "Headphones",
+    "brand": "Anker",
+    "mrp": 4999,
+    "retail_price": 4249.15
+  },
+  {
+    "product_id": "H014",
+    "product_name": "Beats Solo Pro",
+    "category": "Headphones",
+    "brand": "Beats",
+    "mrp": 23990,
+    "retail_price": 20391.5
+  },
+  {
+    "product_id": "H015",
+    "product_name": "JBL Endurance Peak 2",
+    "category": "Earphones",
+    "brand": "JBL",
+    "mrp": 6999,
+    "retail_price": 5949.15
+  },
+  {
+    "product_id": "H016",
+    "product_name": "Bose QuietComfort 35 II",
+    "category": "Headphones",
+    "brand": "Bose",
+    "mrp": 29900,
+    "retail_price": 25415.0
+  },
+  {
+    "product_id": "H017",
+    "product_name": "Philips TAH6507BK",
+    "category": "Headphones",
+    "brand": "Philips",
+    "mrp": 6999,
+    "retail_price": 5949.15
+  },
+  {
+    "product_id": "H018",
+    "product_name": "Sony WF-1000XM4",
+    "category": "Earphones",
+    "brand": "Sony",
+    "mrp": 19990,
+    "retail_price": 16991.5
+  },
+  {
+    "product_id": "H019",
+    "product_name": "Sennheiser CX 400BT",
+    "category": "Earphones",
+    "brand": "Sennheiser",
+    "mrp": 9990,
+    "retail_price": 8491.5
+  },
+  {
+    "product_id": "H020",
+    "product_name": "Xiaomi Mi True Wireless 2",
+    "category": "Earphones",
+    "brand": "Xiaomi",
+    "mrp": 3999,
+    "retail_price": 3399.15
+  },
+  {
+    "product_id": "H021",
+    "product_name": "Samsung Galaxy Buds 2",
+    "category": "Earphones",
+    "brand": "Samsung",
+    "mrp": 11990,
+    "retail_price": 10191.5
+  },
+  {
+    "product_id": "H022",
+    "product_name": "Noise Air Buds+",
+    "category": "Earphones",
+    "brand": "Noise",
+    "mrp": 2999,
+    "retail_price": 2549.15
+  },
+  {
+    "product_id": "H023",
+    "product_name": "Redmi Earbuds 3 Pro",
+    "category": "Earphones",
+    "brand": "Redmi",
+    "mrp": 2999,
+    "retail_price": 2549.15
+  },
+  {
+    "product_id": "H024",
+    "product_name": "Skullcandy Crusher ANC",
+    "category": "Headphones",
+    "brand": "Skullcandy",
+    "mrp": 22999,
+    "retail_price": 19549.15
+  },
+  {
+    "product_id": "H025",
+    "product_name": "Realme Buds Wireless 2 Neo",
+    "category": "Earphones",
+    "brand": "Realme",
+    "mrp": 1999,
+    "retail_price": 1699.15
+  },
+  {
+    "product_id": "H026",
+    "product_name": "boAt Rockerz 600",
+    "category": "Headphones",
+    "brand": "boAt",
+    "mrp": 3999,
+    "retail_price": 3399.15
+  },
+  {
+    "product_id": "H027",
+    "product_name": "JBL Quantum 100",
+    "category": "Headphones",
+    "brand": "JBL",
+    "mrp": 2999,
+    "retail_price": 2549.15
+  },
+  {
+    "product_id": "H028",
+    "product_name": "Sony WH-CH710N",
+    "category": "Headphones",
+    "brand": "Sony",
+    "mrp": 12990,
+    "retail_price": 11041.5
+  },
+  {
+    "product_id": "H029",
+    "product_name": "Bose Noise Cancelling Headphones 700",
+    "category": "Headphones",
+    "brand": "Bose",
+    "mrp": 37900,
+    "retail_price": 32215.0
+  },
+  {
+    "product_id": "H030",
+    "product_name": "Apple AirPods Max",
+    "category": "Headphones",
+    "brand": "Apple",
+    "mrp": 59900,
+    "retail_price": 50915.0
+  },
+  {
+    "product_id": "H031",
+    "product_name": "Sennheiser PXC 550-II",
+    "category": "Headphones",
+    "brand": "Sennheiser",
+    "mrp": 29990,
+    "retail_price": 25491.5
+  },
+  {
+    "product_id": "H032",
+    "product_name": "JBL T450BT",
+    "category": "Headphones",
+    "brand": "JBL",
+    "mrp": 2999,
+    "retail_price": 2549.15
+  },
+  {
+    "product_id": "H033",
+    "product_name": "Sony WF-SP800N",
+    "category": "Earphones",
+    "brand": "Sony",
+    "mrp": 12990,
+    "retail_price": 11041.5
+  },
+  {
+    "product_id": "H034",
+    "product_name": "Anker Soundcore Liberty Air 2",
+    "category": "Earphones",
+    "brand": "Anker",
+    "mrp": 7999,
+    "retail_price": 6799.15
+  },
+  {
+    "product_id": "H035",
+    "product_name": "Philips SHB8850NC",
+    "category": "Headphones",
+    "brand": "Philips",
+    "mrp": 8999,
+    "retail_price": 7649.15
+  },
+  {
+    "product_id": "H036",
+    "product_name": "boAt Airdopes 441 Pro",
+    "category": "Earphones",
+    "brand": "boAt",
+    "mrp": 2499,
+    "retail_price": 2124.15
+  },
+  {
+    "product_id": "H037",
+    "product_name": "Samsung Galaxy Buds Live",
+    "category": "Earphones",
+    "brand": "Samsung",
+    "mrp": 13990,
+    "retail_price": 11891.5
+  },
+  {
+    "product_id": "H038",
+    "product_name": "JBL Tune 500BT",
+    "category": "Headphones",
+    "brand": "JBL",
+    "mrp": 3999,
+    "retail_price": 3399.15
+  },
+  {
+    "product_id": "H039",
+    "product_name": "Sennheiser HD 450BT",
+    "category": "Headphones",
+    "brand": "Sennheiser",
+    "mrp": 17990,
+    "retail_price": 15291.5
+  },
+  {
+    "product_id": "H040",
+    "product_name": "Realme Buds Q2",
+    "category": "Earphones",
+    "brand": "Realme",
+    "mrp": 2499,
+    "retail_price": 2124.15
+  },
+  {
+    "product_id": "H061",
+    "product_name": "Sony WF-1000XM4",
+    "category": "Earphones",
+    "brand": "Sony",
+    "mrp": 19990,
+    "retail_price": 16991.5
+  },
+  {
+    "product_id": "H062",
+    "product_name": "boAt Airdopes 121v2",
+    "category": "Earphones",
+    "brand": "boAt",
+    "mrp": 1299,
+    "retail_price": 1104.15
+  },
+  {
+    "product_id": "H063",
+    "product_name": "JBL Live 200BT",
+    "category": "Headphones",
+    "brand": "JBL",
+    "mrp": 5999,
+    "retail_price": 5099.15
+  },
+  {
+    "product_id": "H064",
+    "product_name": "Realme Buds Air Pro",
+    "category": "Earphones",
+    "brand": "Realme",
+    "mrp": 4999,
+    "retail_price": 4249.15
+  },
+  {
+    "product_id": "H065",
+    "product_name": "Anker Soundcore Liberty Air 2",
+    "category": "Earphones",
+    "brand": "Anker",
+    "mrp": 7999,
+    "retail_price": 6799.15
+  },
+  {
+    "product_id": "H066",
+    "product_name": "Sennheiser Momentum True Wireless 2",
+    "category": "Earphones",
+    "brand": "Sennheiser",
+    "mrp": 24990,
+    "retail_price": 21241.5
+  },
+  {
+    "product_id": "H067",
+    "product_name": "JBL Quantum 800",
+    "category": "Headphones",
+    "brand": "JBL",
+    "mrp": 12999,
+    "retail_price": 11049.15
+  },
+  {
+    "product_id": "H068",
+    "product_name": "Bose SoundSport Free",
+    "category": "Earphones",
+    "brand": "Bose",
+    "mrp": 14999,
+    "retail_price": 12749.15
+  },
+  {
+    "product_id": "H069",
+    "product_name": "Realme Buds Q2",
+    "category": "Earphones",
+    "brand": "Realme",
+    "mrp": 2499,
+    "retail_price": 2124.15
+  },
+  {
+    "product_id": "H070",
+    "product_name": "boAt Rockerz 255 Pro",
+    "category": "Headphones",
+    "brand": "boAt",
+    "mrp": 1799,
+    "retail_price": 1529.15
+  },
+  {
+    "product_id": "H071",
+    "product_name": "Sony WH-CH710N",
+    "category": "Headphones",
+    "brand": "Sony",
+    "mrp": 9990,
+    "retail_price": 8491.5
+  },
+  {
+    "product_id": "H072",
+    "product_name": "JBL Reflect Mini NC",
+    "category": "Earphones",
+    "brand": "JBL",
+    "mrp": 7999,
+    "retail_price": 6799.15
+  },
+  {
+    "product_id": "H073",
+    "product_name": "boAt Rockerz 600",
+    "category": "Headphones",
+    "brand": "boAt",
+    "mrp": 2999,
+    "retail_price": 2549.15
+  },
+  {
+    "product_id": "H074",
+    "product_name": "Skullcandy Crusher ANC",
+    "category": "Headphones",
+    "brand": "Skullcandy",
+    "mrp": 22999,
+    "retail_price": 19549.15
+  },
+  {
+    "product_id": "H075",
+    "product_name": "JBL Tune 115TWS",
+    "category": "Earphones",
+    "brand": "JBL",
+    "mrp": 2999,
+    "retail_price": 2549.15
+  },
+  {
+    "product_id": "H076",
+    "product_name": "Samsung Galaxy Buds Live",
+    "category": "Earphones",
+    "brand": "Samsung",
+    "mrp": 11990,
+    "retail_price": 10191.5
+  },
+  {
+    "product_id": "H077",
+    "product_name": "boAt Airdopes 441 Pro",
+    "category": "Earphones",
+    "brand": "boAt",
+    "mrp": 2999,
+    "retail_price": 2549.15
+  },
+  {
+    "product_id": "H078",
+    "product_name": "Anker Soundcore Life Q20",
+    "category": "Headphones",
+    "brand": "Anker",
+    "mrp": 4999,
+    "retail_price": 4249.15
+  },
+  {
+    "product_id": "H079",
+    "product_name": "JBL Endurance Sprint",
+    "category": "Earphones",
+    "brand": "JBL",
+    "mrp": 3999,
+    "retail_price": 3399.15
+  },
+  {
+    "product_id": "H080",
+    "product_name": "Noise Air Buds Pro",
+    "category": "Earphones",
+    "brand": "Noise",
+    "mrp": 4999,
+    "retail_price": 4249.15
+  },
+  {
+    "product_id": "T001",
+    "product_name": "Samsung Crystal 4K UHD",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 28990,
+    "retail_price": 26091
+  },
+  {
+    "product_id": "T002",
+    "product_name": "Sony Bravia 43 Inch Full HD LED",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 35990,
+    "retail_price": 32391
+  },
+  {
+    "product_id": "T003",
+    "product_name": "LG 55 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 64990,
+    "retail_price": 58491
+  },
+  {
+    "product_id": "T004",
+    "product_name": "TCL 50 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 36990,
+    "retail_price": 33291
+  },
+  {
+    "product_id": "T005",
+    "product_name": "Samsung 55 Inch QLED 4K TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 99990,
+    "retail_price": 89991
+  },
+  {
+    "product_id": "T006",
+    "product_name": "Sony Bravia 55 Inch OLED 4K TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 169990,
+    "retail_price": 152991
+  },
+  {
+    "product_id": "T007",
+    "product_name": "LG 43 Inch Full HD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 30990,
+    "retail_price": 27891
+  },
+  {
+    "product_id": "T008",
+    "product_name": "TCL 65 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 71990,
+    "retail_price": 64791
+  },
+  {
+    "product_id": "T009",
+    "product_name": "Samsung 43 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 40990,
+    "retail_price": 36891
+  },
+  {
+    "product_id": "T010",
+    "product_name": "Sony Bravia 65 Inch 4K LED TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 109990,
+    "retail_price": 98991
+  },
+  {
+    "product_id": "T011",
+    "product_name": "LG 65 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 84990,
+    "retail_price": 76491
+  },
+  {
+    "product_id": "T012",
+    "product_name": "TCL 43 Inch Full HD LED TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 22990,
+    "retail_price": 20691
+  },
+  {
+    "product_id": "T013",
+    "product_name": "Samsung 32 Inch LED TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 22990,
+    "retail_price": 20691
+  },
+  {
+    "product_id": "T014",
+    "product_name": "Sony Bravia 50 Inch 4K LED TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 49990,
+    "retail_price": 44991
+  },
+  {
+    "product_id": "T015",
+    "product_name": "LG 50 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 55990,
+    "retail_price": 50391
+  },
+  {
+    "product_id": "T016",
+    "product_name": "TCL 40 Inch Full HD LED TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 25990,
+    "retail_price": 23391
+  },
+  {
+    "product_id": "T017",
+    "product_name": "Samsung 75 Inch QLED 4K TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 179990,
+    "retail_price": 161991
+  },
+  {
+    "product_id": "T018",
+    "product_name": "Sony Bravia 75 Inch 4K UHD TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 239990,
+    "retail_price": 215991
+  },
+  {
+    "product_id": "T019",
+    "product_name": "LG 43 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 36990,
+    "retail_price": 33291
+  },
+  {
+    "product_id": "T020",
+    "product_name": "TCL 55 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 46990,
+    "retail_price": 42291
+  },
+  {
+    "product_id": "T021",
+    "product_name": "Samsung 85 Inch QLED 4K TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 249990,
+    "retail_price": 224991
+  },
+  {
+    "product_id": "T022",
+    "product_name": "Sony Bravia 49 Inch 4K UHD TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 45990,
+    "retail_price": 41391
+  },
+  {
+    "product_id": "T023",
+    "product_name": "LG 55 Inch OLED 4K TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 109990,
+    "retail_price": 98991
+  },
+  {
+    "product_id": "T024",
+    "product_name": "TCL 58 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 58990,
+    "retail_price": 53091
+  },
+  {
+    "product_id": "T025",
+    "product_name": "Samsung 43 Inch 4K Smart TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 35990,
+    "retail_price": 32391
+  },
+  {
+    "product_id": "T026",
+    "product_name": "Sony Bravia 32 Inch Full HD TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 24990,
+    "retail_price": 22491
+  },
+  {
+    "product_id": "T027",
+    "product_name": "LG 65 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 84990,
+    "retail_price": 76491
+  },
+  {
+    "product_id": "T028",
+    "product_name": "TCL 75 Inch 4K UHD TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 109990,
+    "retail_price": 98991
+  },
+  {
+    "product_id": "T029",
+    "product_name": "Samsung 50 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 49990,
+    "retail_price": 44991
+  },
+  {
+    "product_id": "T030",
+    "product_name": "Sony Bravia 55 Inch 4K OLED TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 139990,
+    "retail_price": 125991
+  },
+  {
+    "product_id": "T031",
+    "product_name": "LG 32 Inch Full HD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 22990,
+    "retail_price": 20691
+  },
+  {
+    "product_id": "T032",
+    "product_name": "TCL 50 Inch QLED 4K TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 64990,
+    "retail_price": 58491
+  },
+  {
+    "product_id": "T033",
+    "product_name": "Samsung 40 Inch Full HD Smart TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 28990,
+    "retail_price": 26091
+  },
+  {
+    "product_id": "T034",
+    "product_name": "Sony Bravia 43 Inch 4K Smart TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 37990,
+    "retail_price": 34191
+  },
+  {
+    "product_id": "T035",
+    "product_name": "LG 70 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 94990,
+    "retail_price": 85491
+  },
+  {
+    "product_id": "T036",
+    "product_name": "TCL 65 Inch 4K UHD TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 79990,
+    "retail_price": 71991
+  },
+  {
+    "product_id": "T037",
+    "product_name": "Samsung 32 Inch HD LED TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 17990,
+    "retail_price": 16191
+  },
+  {
+    "product_id": "T038",
+    "product_name": "Sony Bravia 60 Inch 4K UHD TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 89990,
+    "retail_price": 80991
+  },
+  {
+    "product_id": "T039",
+    "product_name": "LG 43 Inch Full HD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 30990,
+    "retail_price": 27891
+  },
+  {
+    "product_id": "T040",
+    "product_name": "TCL 32 Inch Full HD Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 17990,
+    "retail_price": 16191
+  },
+  {
+    "product_id": "T041",
+    "product_name": "Samsung 55 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 64990,
+    "retail_price": 58491
+  },
+  {
+    "product_id": "T042",
+    "product_name": "Sony Bravia 70 Inch 4K UHD TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 109990,
+    "retail_price": 98991
+  },
+  {
+    "product_id": "T043",
+    "product_name": "LG 49 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 48990,
+    "retail_price": 44091
+  },
+  {
+    "product_id": "T044",
+    "product_name": "TCL 80 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 129990,
+    "retail_price": 116991
+  },
+  {
+    "product_id": "T045",
+    "product_name": "Samsung 60 Inch QLED 4K TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 109990,
+    "retail_price": 98991
+  },
+  {
+    "product_id": "T046",
+    "product_name": "Sony Bravia 43 Inch Full HD TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 29990,
+    "retail_price": 26991
+  },
+  {
+    "product_id": "T047",
+    "product_name": "LG 55 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 54990,
+    "retail_price": 49491
+  },
+  {
+    "product_id": "T048",
+    "product_name": "TCL 65 Inch QLED 4K Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 84990,
+    "retail_price": 76491
+  },
+  {
+    "product_id": "T049",
+    "product_name": "Samsung 85 Inch 8K QLED TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 329990,
+    "retail_price": 296991
+  },
+  {
+    "product_id": "T050",
+    "product_name": "Sony Bravia 75 Inch 8K UHD TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 449990,
+    "retail_price": 404991
+  },
+  {
+    "product_id": "T051",
+    "product_name": "LG 77 Inch OLED 4K TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 249990,
+    "retail_price": 224991
+  },
+  {
+    "product_id": "T052",
+    "product_name": "TCL 40 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 32990,
+    "retail_price": 29691
+  },
+  {
+    "product_id": "T053",
+    "product_name": "Samsung 55 Inch QLED 4K TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 84990,
+    "retail_price": 76491
+  },
+  {
+    "product_id": "T054",
+    "product_name": "Sony Bravia 65 Inch 4K Smart TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 79990,
+    "retail_price": 71991
+  },
+  {
+    "product_id": "T055",
+    "product_name": "LG 65 Inch 8K OLED TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 349990,
+    "retail_price": 314991
+  },
+  {
+    "product_id": "T056",
+    "product_name": "TCL 50 Inch 4K UHD TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 46990,
+    "retail_price": 42291
+  },
+  {
+    "product_id": "T057",
+    "product_name": "Samsung 49 Inch QLED 4K TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "mrp": 64990,
+    "retail_price": 58491
+  },
+  {
+    "product_id": "T058",
+    "product_name": "Sony Bravia 50 Inch 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "Sony",
+    "mrp": 59990,
+    "retail_price": 53991
+  },
+  {
+    "product_id": "T059",
+    "product_name": "LG 70 Inch 8K OLED TV",
+    "category": "TV",
+    "brand": "LG",
+    "mrp": 399990,
+    "retail_price": 359991
+  },
+  {
+    "product_id": "T060",
+    "product_name": "TCL 75 Inch 8K Smart TV",
+    "category": "TV",
+    "brand": "TCL",
+    "mrp": 189990,
+    "retail_price": 170991
+  },
+  {
+    "product_id": "TAB001",
+    "product_name": "Samsung Galaxy Tab A8",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 21999,
+    "retail_price": 19799
+  },
+  {
+    "product_id": "TAB002",
+    "product_name": "Apple iPad Pro 12.9-inch 2020",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 89990,
+    "retail_price": 80991
+  },
+  {
+    "product_id": "TAB003",
+    "product_name": "Huawei MediaPad T3 10",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 14990,
+    "retail_price": 13491
+  },
+  {
+    "product_id": "TAB004",
+    "product_name": "Lenovo Tab M10 FHD Plus",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 17990,
+    "retail_price": 16191
+  },
+  {
+    "product_id": "TAB005",
+    "product_name": "Microsoft Surface Pro X",
+    "category": "Tablet",
+    "brand": "Microsoft",
+    "mrp": 84990,
+    "retail_price": 76491
+  },
+  {
+    "product_id": "TAB006",
+    "product_name": "Samsung Galaxy Tab S6 Lite 2022",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 27999,
+    "retail_price": 25199
+  },
+  {
+    "product_id": "TAB007",
+    "product_name": "Lenovo Tab P11 2nd Gen",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 27990,
+    "retail_price": 25191
+  },
+  {
+    "product_id": "TAB008",
+    "product_name": "Apple iPad 10.2-inch 2019",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 28990,
+    "retail_price": 26091
+  },
+  {
+    "product_id": "TAB009",
+    "product_name": "Samsung Galaxy Tab S7 FE 5G",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 60990,
+    "retail_price": 54891
+  },
+  {
+    "product_id": "TAB010",
+    "product_name": "Lenovo Tab 4 8 Plus",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 14990,
+    "retail_price": 13491
+  },
+  {
+    "product_id": "TAB011",
+    "product_name": "Apple iPad Pro 11-inch 2020",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 74990,
+    "retail_price": 67491
+  },
+  {
+    "product_id": "TAB012",
+    "product_name": "Samsung Galaxy Tab A7 10.4",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 22999,
+    "retail_price": 20699
+  },
+  {
+    "product_id": "TAB013",
+    "product_name": "Lenovo Tab P11 Plus",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 27990,
+    "retail_price": 25191
+  },
+  {
+    "product_id": "TAB014",
+    "product_name": "Microsoft Surface Go 2",
+    "category": "Tablet",
+    "brand": "Microsoft",
+    "mrp": 43990,
+    "retail_price": 39591
+  },
+  {
+    "product_id": "TAB015",
+    "product_name": "Samsung Galaxy Tab S6 5G",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 79990,
+    "retail_price": 71991
+  },
+  {
+    "product_id": "TAB016",
+    "product_name": "Apple iPad Mini 4",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 23990,
+    "retail_price": 21591
+  },
+  {
+    "product_id": "TAB017",
+    "product_name": "Lenovo Yoga Tab 3 Plus",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 24990,
+    "retail_price": 22491
+  },
+  {
+    "product_id": "TAB018",
+    "product_name": "Samsung Galaxy Tab S5e 2021",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 38999,
+    "retail_price": 35099
+  },
+  {
+    "product_id": "TAB019",
+    "product_name": "Apple iPad Air 3rd Gen",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 37990,
+    "retail_price": 34191
+  },
+  {
+    "product_id": "TAB020",
+    "product_name": "Lenovo Tab M7",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 7990,
+    "retail_price": 7191
+  },
+  {
+    "product_id": "TAB021",
+    "product_name": "Samsung Galaxy Tab Active 2",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 47990,
+    "retail_price": 43191
+  },
+  {
+    "product_id": "TAB022",
+    "product_name": "Huawei MediaPad T8",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 13990,
+    "retail_price": 12591
+  },
+  {
+    "product_id": "TAB023",
+    "product_name": "Apple iPad Air 4th Gen",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 54990,
+    "retail_price": 49491
+  },
+  {
+    "product_id": "TAB024",
+    "product_name": "Samsung Galaxy Tab S4",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 56990,
+    "retail_price": 51291
+  },
+  {
+    "product_id": "TAB025",
+    "product_name": "Lenovo Tab M10",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 12990,
+    "retail_price": 11691
+  },
+  {
+    "product_id": "TAB026",
+    "product_name": "Huawei MediaPad M5 Lite",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 21990,
+    "retail_price": 19791
+  },
+  {
+    "product_id": "TAB027",
+    "product_name": "Samsung Galaxy Tab 7",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 25990,
+    "retail_price": 23391
+  },
+  {
+    "product_id": "TAB028",
+    "product_name": "Apple iPad Mini 5th Gen",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 34990,
+    "retail_price": 31491
+  },
+  {
+    "product_id": "TAB029",
+    "product_name": "Lenovo Yoga Tab 3",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 15990,
+    "retail_price": 14391
+  },
+  {
+    "product_id": "TAB030",
+    "product_name": "Samsung Galaxy Tab A 8.0",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 14999,
+    "retail_price": 13499
+  },
+  {
+    "product_id": "TAB031",
+    "product_name": "Lenovo Tab E8",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 9999,
+    "retail_price": 8999
+  },
+  {
+    "product_id": "TAB032",
+    "product_name": "Apple iPad Pro 9.7-inch",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 42990,
+    "retail_price": 38691
+  },
+  {
+    "product_id": "TAB033",
+    "product_name": "Microsoft Surface Pro 7",
+    "category": "Tablet",
+    "brand": "Microsoft",
+    "mrp": 71990,
+    "retail_price": 64791
+  },
+  {
+    "product_id": "TAB034",
+    "product_name": "Huawei MediaPad M6",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 24990,
+    "retail_price": 22491
+  },
+  {
+    "product_id": "TAB035",
+    "product_name": "Apple iPad 8th Gen",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 32990,
+    "retail_price": 29691
+  },
+  {
+    "product_id": "TAB036",
+    "product_name": "Samsung Galaxy Tab S7",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 59990,
+    "retail_price": 53991
+  },
+  {
+    "product_id": "TAB037",
+    "product_name": "Lenovo Tab M8 HD",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 10990,
+    "retail_price": 9891
+  },
+  {
+    "product_id": "TAB038",
+    "product_name": "Apple iPad Pro 10.5-inch",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 54990,
+    "retail_price": 49491
+  },
+  {
+    "product_id": "TAB039",
+    "product_name": "Samsung Galaxy Tab S3",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 47990,
+    "retail_price": 43191
+  },
+  {
+    "product_id": "TAB040",
+    "product_name": "Huawei MediaPad M5",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 22990,
+    "retail_price": 20691
+  },
+  {
+    "product_id": "TAB041",
+    "product_name": "Lenovo Tab P10",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 21990,
+    "retail_price": 19791
+  },
+  {
+    "product_id": "TAB042",
+    "product_name": "Microsoft Surface Go 3",
+    "category": "Tablet",
+    "brand": "Microsoft",
+    "mrp": 53990,
+    "retail_price": 48591
+  },
+  {
+    "product_id": "TAB043",
+    "product_name": "Samsung Galaxy Tab S5e",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 39990,
+    "retail_price": 35991
+  },
+  {
+    "product_id": "TAB044",
+    "product_name": "Lenovo Tab E10",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 10990,
+    "retail_price": 9891
+  },
+  {
+    "product_id": "TAB045",
+    "product_name": "Huawei MediaPad T3 8",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 10990,
+    "retail_price": 9891
+  },
+  {
+    "product_id": "TAB046",
+    "product_name": "Samsung Galaxy Tab S8",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 74990,
+    "retail_price": 67491
+  },
+  {
+    "product_id": "TAB047",
+    "product_name": "Apple iPad Air 5th Gen",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 64990,
+    "retail_price": 58491
+  },
+  {
+    "product_id": "TAB048",
+    "product_name": "Lenovo Tab M10 Plus 3rd Gen",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 19990,
+    "retail_price": 17991
+  },
+  {
+    "product_id": "TAB049",
+    "product_name": "Microsoft Surface Pro 8",
+    "category": "Tablet",
+    "brand": "Microsoft",
+    "mrp": 99990,
+    "retail_price": 89991
+  },
+  {
+    "product_id": "TAB050",
+    "product_name": "Huawei MatePad Pro 12.6",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 68990,
+    "retail_price": 62091
+  },
+  {
+    "product_id": "TAB051",
+    "product_name": "Apple iPad Mini 6th Gen",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 46990,
+    "retail_price": 42291
+  },
+  {
+    "product_id": "TAB052",
+    "product_name": "Samsung Galaxy Tab S7+ 5G",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 84990,
+    "retail_price": 76491
+  },
+  {
+    "product_id": "TAB053",
+    "product_name": "Lenovo Tab K10",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 13990,
+    "retail_price": 12591
+  },
+  {
+    "product_id": "TAB054",
+    "product_name": "Xiaomi Pad 5",
+    "category": "Tablet",
+    "brand": "Xiaomi",
+    "mrp": 25999,
+    "retail_price": 23399
+  },
+  {
+    "product_id": "TAB055",
+    "product_name": "Samsung Galaxy Tab A8 10.5",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 24990,
+    "retail_price": 22491
+  },
+  {
+    "product_id": "TAB056",
+    "product_name": "Apple iPad Pro 11-inch 2021",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 84990,
+    "retail_price": 76491
+  },
+  {
+    "product_id": "TAB057",
+    "product_name": "Lenovo Tab P11 2021",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 24990,
+    "retail_price": 22491
+  },
+  {
+    "product_id": "TAB058",
+    "product_name": "Huawei MediaPad T5",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 14990,
+    "retail_price": 13491
+  },
+  {
+    "product_id": "TAB059",
+    "product_name": "Samsung Galaxy Tab S6 5G",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 79990,
+    "retail_price": 71991
+  },
+  {
+    "product_id": "TAB060",
+    "product_name": "Lenovo Tab 10",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 15990,
+    "retail_price": 14391
+  },
+  {
+    "product_id": "TAB061",
+    "product_name": "Apple iPad 7th Gen",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 27990,
+    "retail_price": 25191
+  },
+  {
+    "product_id": "TAB062",
+    "product_name": "Lenovo Tab M8 4th Gen",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 11990,
+    "retail_price": 10791
+  },
+  {
+    "product_id": "TAB063",
+    "product_name": "Samsung Galaxy Tab S7 FE",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 60990,
+    "retail_price": 54891
+  },
+  {
+    "product_id": "TAB064",
+    "product_name": "Apple iPad Pro 12.9-inch 2021",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 109990,
+    "retail_price": 98991
+  },
+  {
+    "product_id": "TAB065",
+    "product_name": "Lenovo Tab P11 Pro",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 35990,
+    "retail_price": 32391
+  },
+  {
+    "product_id": "TAB066",
+    "product_name": "Microsoft Surface Pro X 2021",
+    "category": "Tablet",
+    "brand": "Microsoft",
+    "mrp": 79990,
+    "retail_price": 71991
+  },
+  {
+    "product_id": "TAB067",
+    "product_name": "Samsung Galaxy Tab A7 Lite",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 13990,
+    "retail_price": 12591
+  },
+  {
+    "product_id": "TAB068",
+    "product_name": "Apple iPad Air 2022",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 64990,
+    "retail_price": 58491
+  },
+  {
+    "product_id": "TAB069",
+    "product_name": "Lenovo Tab M10 FHD",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 17990,
+    "retail_price": 16191
+  },
+  {
+    "product_id": "TAB070",
+    "product_name": "Huawei MediaPad M5 8.4",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 19990,
+    "retail_price": 17991
+  },
+  {
+    "product_id": "TAB071",
+    "product_name": "Samsung Galaxy Tab A7",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 22999,
+    "retail_price": 20699
+  },
+  {
+    "product_id": "TAB072",
+    "product_name": "Apple iPad Mini 4",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 23990,
+    "retail_price": 21591
+  },
+  {
+    "product_id": "TAB073",
+    "product_name": "Lenovo Tab P11 5G",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 34990,
+    "retail_price": 31491
+  },
+  {
+    "product_id": "TAB074",
+    "product_name": "Huawei MediaPad M5 Pro",
+    "category": "Tablet",
+    "brand": "Huawei",
+    "mrp": 29990,
+    "retail_price": 26991
+  },
+  {
+    "product_id": "TAB075",
+    "product_name": "Samsung Galaxy Tab S6 Lite",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "mrp": 21990,
+    "retail_price": 19791
+  },
+  {
+    "product_id": "TAB076",
+    "product_name": "Apple iPad Pro 12.9-inch 2018",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 79990,
+    "retail_price": 71991
+  },
+  {
+    "product_id": "TAB077",
+    "product_name": "Lenovo Tab P11 2020",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 24990,
+    "retail_price": 22491
+  },
+  {
+    "product_id": "TAB078",
+    "product_name": "Microsoft Surface Go 2 LTE",
+    "category": "Tablet",
+    "brand": "Microsoft",
+    "mrp": 48990,
+    "retail_price": 44091
+  },
+  {
+    "product_id": "TAB079",
+    "product_name": "Apple iPad Air 2021",
+    "category": "Tablet",
+    "brand": "Apple",
+    "mrp": 55990,
+    "retail_price": 50391
+  },
+  {
+    "product_id": "TAB080",
+    "product_name": "Lenovo Tab M7 HD",
+    "category": "Tablet",
+    "brand": "Lenovo",
+    "mrp": 8990,
+    "retail_price": 8091
+  }
+]

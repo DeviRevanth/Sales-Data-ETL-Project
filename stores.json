@@ -1,0 +1,71 @@
+[
+  {
+    "store_id": "S001",
+    "store_name": "Connaught Place Store",
+    "location": "New Delhi"
+  },
+  { "store_id": "S002", "store_name": "Phoenix Mall", "location": "Mumbai" },
+  { "store_id": "S003", "store_name": "UB City", "location": "Bengaluru" },
+  {
+    "store_id": "S004",
+    "store_name": "Sarojini Nagar",
+    "location": "New Delhi"
+  },
+  { "store_id": "S005", "store_name": "Select Citywalk", "location": "Delhi" },
+  { "store_id": "S006", "store_name": "Ambience Mall", "location": "Gurugram" },
+  {
+    "store_id": "S007",
+    "store_name": "High Street Phoenix",
+    "location": "Mumbai"
+  },
+  { "store_id": "S008", "store_name": "The Leela", "location": "Chennai" },
+  {
+    "store_id": "S009",
+    "store_name": "DLF Mall of India",
+    "location": "Noida"
+  },
+  {
+    "store_id": "S010",
+    "store_name": "Lajpat Nagar Market",
+    "location": "New Delhi"
+  },
+  { "store_id": "S011", "store_name": "Sahara Mall", "location": "Gurugram" },
+  { "store_id": "S012", "store_name": "Inorbit Mall", "location": "Hyderabad" },
+  {
+    "store_id": "S013",
+    "store_name": "Chennai Citi Centre",
+    "location": "Chennai"
+  },
+  { "store_id": "S014", "store_name": "R City Mall", "location": "Mumbai" },
+  {
+    "store_id": "S015",
+    "store_name": "Mantri Square Mall",
+    "location": "Bengaluru"
+  },
+  {
+    "store_id": "S016",
+    "store_name": "Phoenix Marketcity",
+    "location": "Chennai"
+  },
+  { "store_id": "S017", "store_name": "GIP Mall", "location": "Noida" },
+  {
+    "store_id": "S018",
+    "store_name": "Sarath City Capital Mall",
+    "location": "Hyderabad"
+  },
+  { "store_id": "S019", "store_name": "Rohini Mall", "location": "New Delhi" },
+  { "store_id": "S020", "store_name": "Westside Mall", "location": "Pune" },
+  { "store_id": "S021", "store_name": "Pacific Mall", "location": "Ghaziabad" },
+  {
+    "store_id": "S022",
+    "store_name": "MGF Metropolitan Mall",
+    "location": "Gurugram"
+  },
+  {
+    "store_id": "S023",
+    "store_name": "City Centre Mall",
+    "location": "Kolkata"
+  },
+  { "store_id": "S024", "store_name": "Kochi Lulu Mall", "location": "Kochi" },
+  { "store_id": "S025", "store_name": "One Mall", "location": "Chandigarh" }
+]
