@@ -49,6 +49,7 @@ def generate_sales_data(num_records):
                     "category": product.get("category"),
                     "retail_price": product.get("retail_price"),
                     "quantity": quantity,
+                    "brand": product.get("brand"),
                     "mrp": mrp,
                     "total": mrp * quantity,
                     "customer_name": fake.name(), # Generates Fake name 
