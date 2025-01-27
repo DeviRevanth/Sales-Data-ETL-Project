@@ -2,6 +2,8 @@
 
 ## _📄 Overview_
 
+![Architecture Diagram](Architecture.pdf)
+
 The **Sales Data ETL Project** is an end-to-end data pipeline designed to:
 
 1. **Generation Sample Data** Sample Data Generation API is hosted using **API Gateway** and **AWS Lambda** which generates data everytime called.
