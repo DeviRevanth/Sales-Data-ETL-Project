@@ -70,7 +70,7 @@ sales-data-etl/ ├── lambda.py # Sales Data Generation Logic │ ├── 
 - API Gateway is used to expose an HTTP endpoint that triggers the Lambda function.
 - The Lambda function generates sample sales data whenever the API endpoint is called. **Faker** package is used in Lambda function which is created as a layer in Lambda function _[lambda.py](https://github.com/DeviRevanth/Sales-Data-ETL-Project/blob/main/lambda.py)_.
 
-  **Note:** Lambda doesn't support Faker packge it has be installed in local pc compressed and uploaded as a zip file in layer section so that Lambda function can make use of the necessary package folder structure of the zip file has be as below.
+  **Note:** Lambda doesn't support Faker packge it has be installed in local pc compressed and uploaded as a zip file in layer section so that Lambda function can make use of the necessary package folder structure of the zip file has to be as below.
 
       layer.zip (Zip file name can be any)
       └── python/
