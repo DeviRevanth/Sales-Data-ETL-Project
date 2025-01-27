@@ -2,7 +2,7 @@
 
 ## _📄 Overview_
 
-![Architecture Diagram](/%20Architecture.pdf)
+![Architecture Diagram](Architecture.png)
 
 The **Sales Data ETL Project** is an end-to-end data pipeline designed to:
 
@@ -21,14 +21,13 @@ The **Sales Data ETL Project** is an end-to-end data pipeline designed to:
 
 1. [Overview](#📄-overview)
 2. [Project Structure](#📁-project-structure)
-3. [Features](#🚀-Features)
+3. [Features](#🚀-features)
 4. [Technologies Used](#🛠️-technologies-used)
 5. [Key Highlights](#🌟-key-highlights)
 6. [Project Execution Steps](#📜-project-execution-steps)
-7. [Recommendations](#💡-recommendations)
-8. [Dashboard Example]()
-9. [Disclaimer](#⚠️-disclaimer)
-10. [Recommendations to avoid unnecessary charges](#💰-recommendations-to-avoid-unnecessary-charges)
+7. [Dashboard Example](#📊-dashboard-example)
+8. [Disclaimer](#⚠️-disclaimer)
+9. [Recommendations to avoid unnecessary charges](#💰-recommendations-to-avoid-unnecessary-charges)
 
 ## _📁 Project Structure_
 
