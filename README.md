@@ -30,7 +30,7 @@ The **Sales Data ETL Project** is an end-to-end data pipeline designed to:
 
 ## _📁 Project Structure_
 
-sales-data-etl/ ├── lambda.py # Sales Data Generation Logic │ ├── glue_job.ipynb # Uploading Raw Files to S3 ,Data transformation logic and uploading transformed files to S3 │ ├── stores.json # Sample Store names used to data generation │ ├── products.json # Sample products from which sales data is generated │ ├── Architecute.pdf End to End Project Execution architecute diagram │ ├── vis1.pdf Dashboard 1 │ ├── vis2.pdf Dashboard 2
+sales-data-etl/ ├── lambda.py # Sales Data Generation Logic │ ├── glue_job.ipynb # Uploading Raw Files to S3 ,Data transformation logic and uploading transformed files to S3 │ ├── stores.json # Sample Store names used to data generation │ ├── products.json # Sample products from which sales data is generated │ ├── Architecute.pdf # End to End Project Execution architecute diagram │ ├── vis1.pdf #Dashboard 1 │ ├── vis2.pdf #Dashboard 2 │ ├── README.md # Project Documentation
 
 ---
 
