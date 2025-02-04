@@ -14,13 +14,13 @@ def lambda_handler(event, context):
         logging.info(f"{num_records} records Generated")
         return {
             'statusCode': 200,
-            'body': json.dumps(data)
+            'body': data
         }
     except Exception as e:
         logging.error(f"Failed to Generate Data with error -> {e}")
         return {
             'statusCode': 400,
-            'body' : json.dumps("Failure Occured")
+            'body' : "Failure Occured"
         }
 
 def generate_sales_data(num_records):
